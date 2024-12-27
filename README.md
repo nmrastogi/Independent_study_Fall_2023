@@ -5,4 +5,4 @@
 examined at a particular step how much effort is required by the T1D
 community and how much effort is required by the institutional scientists,
 considering they have more resources than the T1D community.
-[drive link](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view?usp=sharing)
+- [drive link](https://drive.google.com/file/d/1ewmNkJyvzRHUdEAzSXVCqc2h2EBxhd-b/view?usp=sharing)
